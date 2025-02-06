@@ -117,8 +117,6 @@ Feel free to contribute by submitting pull requests for:
 - Enhancing optimization techniques.
 - Improving computational performance.
 
-## License
-MIT License.
 
 
 ### License
